@@ -1,6 +1,6 @@
 # VB.NET
 
-Repositório dedicado para estudo de VB.NET do curso do Alura. Todo código está sendo desenvolvido com o Visual Studio 2019 com .NET 5. Os projetos desenvolvidos serão aplicações do Windows Forms.
+Repositório dedicado para estudo de VB.NET do curso do Alura. Todo código está sendo desenvolvido no Visual Studio 2019 com .NET 5. Os projetos desenvolvidos serão aplicações do Windows Forms.
 
 
 
