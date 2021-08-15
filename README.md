@@ -1,6 +1,6 @@
 # VB.NET
 
-Repositório dedicado para estudo de VB.NET do curso do Alura. Todo código está sendo desenvolvido no Visual Studio 2019 com .NET 5. Os projetos desenvolvidos serão aplicações do Windows Forms.
+Repositório dedicado para estudo de VB.NET do curso do Alura. Todo código está sendo desenvolvido com o Visual Studio 2019 com .NET 5. Os projetos desenvolvidos serão aplicações do Windows Forms.
 
 
 
@@ -47,6 +47,14 @@ Repositório dedicado para estudo de VB.NET do curso do Alura. Todo código est�
 - Os cuidados no escopo das variáveis dentro de estruturas de fluxo
 
 - Os componentes RadionButton e Groupbox
+
+
+
+#### 5 - Laços de Repetição
+
+* Laços de repetição com WHILE
+* Laços de repetição com FOR
+* Comando EXIT FOR
 
 
 
