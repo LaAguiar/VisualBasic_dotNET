@@ -2,7 +2,7 @@
 
 Repositório dedicado para estudo de VB.NET dos cursos do Alura. 
 
-Os projetos serão aplicações do Windows Forms e estão sendo desenvolvidos com o Visual Studio 2019 com .NET 5.
+Os projetos serão aplicações do Windows Forms e estão sendo desenvolvidos com o Visual Studio 2019 e .NET 5.
 
 
 
