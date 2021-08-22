@@ -28,20 +28,20 @@ Partial Class Frm_TelaPrincipal_01
         'Btm_Principal
         '
         Me.Btm_Principal.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.Btm_Principal.Location = New System.Drawing.Point(337, 178)
+        Me.Btm_Principal.Location = New System.Drawing.Point(86, 59)
         Me.Btm_Principal.Name = "Btm_Principal"
         Me.Btm_Principal.Size = New System.Drawing.Size(112, 48)
         Me.Btm_Principal.TabIndex = 0
         Me.Btm_Principal.Text = "Clique aqui"
         Me.Btm_Principal.UseVisualStyleBackColor = False
         '
-        'Frm_TelaPrincipal
+        'Frm_TelaPrincipal_01
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(286, 169)
         Me.Controls.Add(Me.Btm_Principal)
-        Me.Name = "Frm_TelaPrincipal"
+        Me.Name = "Frm_TelaPrincipal_01"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Aplicação Olá Mundo"
         Me.ResumeLayout(False)

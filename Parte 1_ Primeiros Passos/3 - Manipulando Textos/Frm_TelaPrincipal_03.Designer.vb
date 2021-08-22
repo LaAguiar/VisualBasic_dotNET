@@ -36,7 +36,7 @@ Partial Class Frm_TelaPrincipal_03
         'Btm_Principal
         '
         Me.Btm_Principal.BackColor = System.Drawing.SystemColors.ActiveCaption
-        Me.Btm_Principal.Location = New System.Drawing.Point(284, 58)
+        Me.Btm_Principal.Location = New System.Drawing.Point(189, 58)
         Me.Btm_Principal.Name = "Btm_Principal"
         Me.Btm_Principal.Size = New System.Drawing.Size(244, 37)
         Me.Btm_Principal.TabIndex = 0
@@ -47,7 +47,7 @@ Partial Class Frm_TelaPrincipal_03
         '
         Me.Lbl_NomeProjeto.AutoSize = True
         Me.Lbl_NomeProjeto.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Lbl_NomeProjeto.Location = New System.Drawing.Point(370, 9)
+        Me.Lbl_NomeProjeto.Location = New System.Drawing.Point(204, 9)
         Me.Lbl_NomeProjeto.Name = "Lbl_NomeProjeto"
         Me.Lbl_NomeProjeto.Size = New System.Drawing.Size(77, 30)
         Me.Lbl_NomeProjeto.TabIndex = 1
@@ -55,7 +55,7 @@ Partial Class Frm_TelaPrincipal_03
         '
         'Btm_Char
         '
-        Me.Btm_Char.Location = New System.Drawing.Point(329, 188)
+        Me.Btm_Char.Location = New System.Drawing.Point(234, 215)
         Me.Btm_Char.Name = "Btm_Char"
         Me.Btm_Char.Size = New System.Drawing.Size(154, 47)
         Me.Btm_Char.TabIndex = 2
@@ -64,7 +64,7 @@ Partial Class Frm_TelaPrincipal_03
         '
         'Txt_NumeroChar
         '
-        Me.Txt_NumeroChar.Location = New System.Drawing.Point(329, 156)
+        Me.Txt_NumeroChar.Location = New System.Drawing.Point(234, 183)
         Me.Txt_NumeroChar.Name = "Txt_NumeroChar"
         Me.Txt_NumeroChar.Size = New System.Drawing.Size(154, 23)
         Me.Txt_NumeroChar.TabIndex = 3
@@ -73,7 +73,7 @@ Partial Class Frm_TelaPrincipal_03
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(132, 123)
+        Me.Label1.Location = New System.Drawing.Point(37, 150)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(515, 21)
         Me.Label1.TabIndex = 4
@@ -83,22 +83,23 @@ Partial Class Frm_TelaPrincipal_03
         '
         Me.Lbl_Curso.AutoSize = True
         Me.Lbl_Curso.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
-        Me.Lbl_Curso.Location = New System.Drawing.Point(370, 256)
+        Me.Lbl_Curso.Location = New System.Drawing.Point(171, 308)
         Me.Lbl_Curso.Name = "Lbl_Curso"
         Me.Lbl_Curso.Size = New System.Drawing.Size(77, 30)
         Me.Lbl_Curso.TabIndex = 5
         Me.Lbl_Curso.Text = "Label1"
+        Me.Lbl_Curso.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'Txt_Curso
         '
-        Me.Txt_Curso.Location = New System.Drawing.Point(116, 300)
+        Me.Txt_Curso.Location = New System.Drawing.Point(21, 353)
         Me.Txt_Curso.Name = "Txt_Curso"
         Me.Txt_Curso.Size = New System.Drawing.Size(276, 23)
         Me.Txt_Curso.TabIndex = 6
         '
         'Btm_Adicionar
         '
-        Me.Btm_Adicionar.Location = New System.Drawing.Point(416, 299)
+        Me.Btm_Adicionar.Location = New System.Drawing.Point(321, 352)
         Me.Btm_Adicionar.Name = "Btm_Adicionar"
         Me.Btm_Adicionar.Size = New System.Drawing.Size(277, 24)
         Me.Btm_Adicionar.TabIndex = 7
@@ -107,7 +108,7 @@ Partial Class Frm_TelaPrincipal_03
         '
         'Txt_Lista
         '
-        Me.Txt_Lista.Location = New System.Drawing.Point(116, 329)
+        Me.Txt_Lista.Location = New System.Drawing.Point(21, 382)
         Me.Txt_Lista.Multiline = True
         Me.Txt_Lista.Name = "Txt_Lista"
         Me.Txt_Lista.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
@@ -118,7 +119,7 @@ Partial Class Frm_TelaPrincipal_03
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(629, 470)
         Me.Controls.Add(Me.Txt_Lista)
         Me.Controls.Add(Me.Btm_Adicionar)
         Me.Controls.Add(Me.Txt_Curso)

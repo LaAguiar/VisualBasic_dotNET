@@ -76,21 +76,21 @@ Partial Class Frm_TelaPrincipal_02
         '
         'Txt_Numerador
         '
-        Me.Txt_Numerador.Location = New System.Drawing.Point(377, 79)
+        Me.Txt_Numerador.Location = New System.Drawing.Point(320, 124)
         Me.Txt_Numerador.Name = "Txt_Numerador"
         Me.Txt_Numerador.Size = New System.Drawing.Size(173, 23)
         Me.Txt_Numerador.TabIndex = 4
         '
         'Txt_Denominador
         '
-        Me.Txt_Denominador.Location = New System.Drawing.Point(377, 117)
+        Me.Txt_Denominador.Location = New System.Drawing.Point(320, 162)
         Me.Txt_Denominador.Name = "Txt_Denominador"
         Me.Txt_Denominador.Size = New System.Drawing.Size(173, 23)
         Me.Txt_Denominador.TabIndex = 5
         '
         'Btm_Resultado
         '
-        Me.Btm_Resultado.Location = New System.Drawing.Point(422, 151)
+        Me.Btm_Resultado.Location = New System.Drawing.Point(365, 196)
         Me.Btm_Resultado.Name = "Btm_Resultado"
         Me.Btm_Resultado.Size = New System.Drawing.Size(75, 23)
         Me.Btm_Resultado.TabIndex = 6
@@ -100,7 +100,7 @@ Partial Class Frm_TelaPrincipal_02
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(286, 82)
+        Me.Label2.Location = New System.Drawing.Point(229, 127)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(68, 15)
         Me.Label2.TabIndex = 7
@@ -109,7 +109,7 @@ Partial Class Frm_TelaPrincipal_02
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(286, 120)
+        Me.Label3.Location = New System.Drawing.Point(229, 165)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(80, 15)
         Me.Label3.TabIndex = 8
@@ -117,7 +117,7 @@ Partial Class Frm_TelaPrincipal_02
         '
         'Txt_Resultado
         '
-        Me.Txt_Resultado.Location = New System.Drawing.Point(377, 190)
+        Me.Txt_Resultado.Location = New System.Drawing.Point(320, 235)
         Me.Txt_Resultado.Name = "Txt_Resultado"
         Me.Txt_Resultado.Size = New System.Drawing.Size(173, 23)
         Me.Txt_Resultado.TabIndex = 9
@@ -126,7 +126,7 @@ Partial Class Frm_TelaPrincipal_02
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(539, 349)
         Me.Controls.Add(Me.Txt_Resultado)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -139,7 +139,7 @@ Partial Class Frm_TelaPrincipal_02
         Me.Controls.Add(Me.Btm_NumerosInteiros)
         Me.Name = "Frm_TelaPrincipal_02"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Aplicação Olá Mundo"
+        Me.Text = "Criando Variáveis"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

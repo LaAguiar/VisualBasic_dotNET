@@ -50,4 +50,7 @@
 
     End Sub
 
+    Private Sub Lbl_NomeProjeto_Click(sender As Object, e As EventArgs) Handles Lbl_NomeProjeto.Click
+
+    End Sub
 End Class

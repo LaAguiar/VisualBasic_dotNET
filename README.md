@@ -1,16 +1,30 @@
 # VB.NET
 
-Repositório dedicado para estudo de VB.NET do curso do Alura. Todo código está sendo desenvolvido com o Visual Studio 2019 com .NET 5. Os projetos desenvolvidos serão aplicações do Windows Forms.
+Repositório dedicado para estudo de VB.NET dos cursos do Alura. 
+
+Os projetos serão aplicações do Windows Forms e estão sendo desenvolvidos com o Visual Studio 2019 com .NET 5.
 
 
+
+### ➡ Primeiros passos 
+
+#### 0 – Projeto Principal
+
+- Adicionando referências ao projeto
+
+- Abrindo cada projeto através de um botão
+
+  
 
 #### 1 – Primeiro Projeto
 
 - Componentes Forms e Button
--  Função para geração de uma caixa de mensagem
--  Como construir uma aplicação que exibe uma mensagem após o clique em um botão
 
+- Função para geração de uma caixa de mensagem
 
+- Como construir uma aplicação que exibe uma mensagem após o clique em um botão
+
+  
 
  #### 2 – Criando Variáveis
 

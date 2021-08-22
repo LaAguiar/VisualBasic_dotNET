@@ -65,7 +65,7 @@ Partial Class Frm_TelaPrincipal_04
         '
         Me.Txt_Resultado.Location = New System.Drawing.Point(98, 231)
         Me.Txt_Resultado.Name = "Txt_Resultado"
-        Me.Txt_Resultado.Size = New System.Drawing.Size(563, 23)
+        Me.Txt_Resultado.Size = New System.Drawing.Size(273, 23)
         Me.Txt_Resultado.TabIndex = 3
         '
         'Lbl_Resultado
@@ -125,7 +125,7 @@ Partial Class Frm_TelaPrincipal_04
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(802, 450)
+        Me.ClientSize = New System.Drawing.Size(383, 280)
         Me.Controls.Add(Me.GrP_Pais)
         Me.Controls.Add(Me.Lbl_Idade)
         Me.Controls.Add(Me.Lbl_Resultado)
